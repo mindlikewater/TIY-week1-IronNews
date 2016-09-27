@@ -1,0 +1,64 @@
+nav {
+  color: black;
+  background-color: grey;
+  padding: 7px;
+}
+
+#title-icon {
+  font-weight: bold;
+  color: white;
+  padding: 3px;
+  border: 1px solid white;
+}
+
+#title-main {
+  font-weight: bold;
+}
+
+.bar {
+  color: white;
+}
+
+.login {
+  padding-left: 200px;
+}
+
+body {
+  color: black;
+  background-color: lightgrey;
+}
+
+.articles {
+  color: black;
+}
+
+li {
+  color: grey;
+  margin-bottom: 5px;
+}
+
+.article-comments {
+  font-size: 7pt;
+  padding-left: 16px;
+}
+
+#get-more {
+  padding: 10px 14px 10px;
+}
+
+.bottom-buttons {
+  font-size: 8pt;
+  padding: 20px 15% 0px;
+  margin-bottom: 4px;
+  border-top: 2px solid grey;
+}
+
+.searchbar {
+  font-size: 10pt;
+  color: grey;
+  padding: 10px 200px;
+}
+
+* {
+  font-family: Verdana, Geneva, sans-serif;
+}
